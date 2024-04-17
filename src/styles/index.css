@@ -10,3 +10,75 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+
+body{
+    margin-top: 100px;
+    margin-left: 500px;
+    margin-right: 500px;
+  
+    background: rgb(202, 200, 200);
+    
+    
+
+}
+h1{
+    font-size: 80px;
+    font-family: ;
+}
+    
+
+ul{
+        padding: 2%;
+    }
+
+ul li{
+    border-bottom : 1px solid rgb(148, 147, 147);
+    list-style: none;
+    padding: 5px ;
+    height: auto;
+    word-wrap: break-word;
+}
+h1{
+    text-align: center;
+}
+input{
+    width: 100%;
+    padding: 5px ;
+
+}
+input:focus{
+    
+    width: 100%;
+    background-color: rgb(170, 169, 170);
+}
+
+#TodoList{
+    background-color: white;
+}
+#Tareas{
+    background-color: grey;
+}
+
+
+.Delete{
+    cursor:pointer ;
+    float:right;
+    display: block;
+}
+
+#linea1{
+    border : 1px solid rgb(148, 147, 147);
+height: 10px;
+background-color: white;
+
+}
+#linea2{
+    border : 1px solid rgb(148, 147, 147);
+
+height: 10px;
+background-color: white;
+
+}
+
+
